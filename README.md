@@ -15,8 +15,7 @@
 📄 &nbsp; You can check my CV [here](https://drive.google.com/file/d/1vVxyhHY2EgNyablizov9YBUBpDD55rVS/view?usp=sharing).
 
 ### 🛠 &nbsp;Tech Stack
-<h2 align="center">⚡Some other tools I use⚡</h2>
-<br>
+
 <p align=center>
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
