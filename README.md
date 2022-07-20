@@ -12,7 +12,7 @@
 🌱 &nbsp; I'm on track to learn more about Machine Learning, AI, Robotics and Web Development.\
 ✍️ &nbsp; In my free time, I play games, talk to, and study together with my friends!.\
 💬 &nbsp; Feel free to reach out to me, I'll try to respond as soon as possible\
-📄 &nbsp; You can check my CV [here](https://drive.google.com/file/d/1vVxyhHY2EgNyablizov9YBUBpDD55rVS/view?usp=sharing).
+📄 &nbsp; You can check my CV [here](https://drive.google.com/file/d/1Ny6zh0x-3-aPjepGttmg1GA0tB0k0geV/view?usp=sharing).
 
 ### 🛠 &nbsp;Tech Stack
 <p align=left>
